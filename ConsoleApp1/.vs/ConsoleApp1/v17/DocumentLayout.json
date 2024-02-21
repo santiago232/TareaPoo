@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pineda\u0027s\\Desktop\\POO PROGRA\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4830BDDB-B044-443F-9287-BF8BCF7437A6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\pineda\u0027s\\desktop\\poo progra\\consoleapp1\\consoleapp1\\poo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4830BDDB-B044-443F-9287-BF8BCF7437A6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\poo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "POO.cs",
+              "DocumentMoniker": "C:\\Users\\Pineda\u0027s\\Desktop\\POO PROGRA\\ConsoleApp1\\ConsoleApp1\\POO.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\POO.cs",
+              "ToolTip": "C:\\Users\\Pineda\u0027s\\Desktop\\POO PROGRA\\ConsoleApp1\\ConsoleApp1\\POO.cs",
+              "RelativeToolTip": "ConsoleApp1\\POO.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T03:07:27.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
